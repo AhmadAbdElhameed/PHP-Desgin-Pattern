@@ -1,0 +1,18 @@
+{
+    "name": "ahmad/design",
+    "description": "Design Pattern Course",
+    "authors": [
+        {
+            "name": "Ahmad Mohammed Abdelhameed",
+            "email": "abdelhameed9@yahoo.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^10.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Creational\\": "Creational"
+        }
+    }
+}
